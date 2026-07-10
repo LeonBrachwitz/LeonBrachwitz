@@ -1,5 +1,5 @@
 ## Hi there 👋
-![tryhackme stats](https://raw.githubusercontent.com/RyzeMitSoze/RyzeMitSoze/master/assets/thm_propic.png)
+<!--![tryhackme stats](https://raw.githubusercontent.com/RyzeMitSoze/RyzeMitSoze/master/assets/thm_propic.png)-->
 <!--
 **LeonBrachwitz/LeonBrachwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
